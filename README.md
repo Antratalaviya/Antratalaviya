@@ -28,9 +28,9 @@
 ### :fire: My Stats :
 <div>
 [![Leetcode Stats](https://leetcard.jacoblin.cool/antratalaviya)](https://leetcard.jacoblin.cool/antratalaviya)
+</div>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Antratalaviya)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 <!--
 **Antratalaviya/Antratalaviya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
