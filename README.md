@@ -1,7 +1,6 @@
 ### Hi 👋 I'm Antra Talaviya
 
 ### :woman_technologist: About Me :
-<br>
 <div align="center">
   Passionate with solid JavaScript skills, eager to specialize in Node.js backend development, proficient in Express.js and database integration like MongoDB.
 </div>
