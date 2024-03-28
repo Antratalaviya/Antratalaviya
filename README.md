@@ -27,6 +27,7 @@
 </div>
 ### :fire: My Stats :
 <div>
+  <img src="https://leetcard.jacoblin.cool/antratalaviya"/>
 [![Leetcode Stats](https://leetcard.jacoblin.cool/antratalaviya)](https://leetcard.jacoblin.cool/antratalaviya)
 </div>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Antratalaviya)](https://git.io/streak-stats)
