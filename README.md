@@ -1,9 +1,12 @@
 ### Hi 👋 I'm Antra Talaviya
 <div>
   Passionate with solid JavaScript skills, eager to specialize in Node.js backend development, proficient in Express.js and database integration
+  :mailbox:How to reach me: 
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 <div id="badges">
-  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 <img src="https://komarev.com/ghpvc/?username=Antratalaviya&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -23,9 +26,12 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/> 
 </div>
 ### :fire: My Stats :
+<div>
 [![Leetcode Stats](https://leetcard.jacoblin.cool/antratalaviya)](https://leetcard.jacoblin.cool/antratalaviya)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Antratalaviya)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 <!--
 **Antratalaviya/Antratalaviya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
