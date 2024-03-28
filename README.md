@@ -1,16 +1,20 @@
 ### Hi 👋 I'm Antra Talaviya
+<hr>
+### :woman_technologist: About Me :
+<br>
 <div>
   Passionate with solid JavaScript skills, eager to specialize in Node.js backend development, proficient in Express.js and database integration
-  :mailbox:How to reach me: 
+</div>
+  :mailbox:How to reach me:
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-<div id="badges">
+<div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=Antratalaviya&style=flat-square&color=blue" alt=""/>
 </div>
-
+<hr>
 ### :hammer_and_wrench: Languages and Tools :
+<br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -25,25 +29,14 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="swagger" alt="swagger" width="40" height="40"/> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/> 
 </div>
+<hr>
 ### :fire: My Stats :
-<div>
+<br>
+<div align="center">
   <img src="https://leetcard.jacoblin.cool/antratalaviya"/>
-[![Leetcode Stats](https://leetcard.jacoblin.cool/antratalaviya)](https://leetcard.jacoblin.cool/antratalaviya)
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Antratalaviya)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Antratalaviya"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antratalaviya&layout=compact&theme=vision-friendly-dark"/>
+</div>
 
-<!--
-**Antratalaviya/Antratalaviya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
