@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<div id="badge">
+<img src="https://komarev.com/ghpvc/?usernameAntratalaviya&style=flat-square&color=blue" alt=""/>
+</div>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/antratalaviya)](https://leetcard.jacoblin.cool/antratalaviya)
 <!--
 **Antratalaviya/Antratalaviya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
