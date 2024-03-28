@@ -6,7 +6,7 @@
   Passionate with solid JavaScript skills, eager to specialize in Node.js backend development, proficient in Express.js and database integration
 </div>
   :mailbox:How to reach me:
-  <a href="your-linkedin-URL">
+  <a href="www.linkedin.com/in/antra-talaviya-7a3a16236">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <div id="badges" align="center">
@@ -34,9 +34,9 @@
 <br>
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/antratalaviya"/>
-</div>
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Antratalaviya"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antratalaviya&layout=compact&theme=vision-friendly-dark"/>
+<br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antratalaviya&layout=compact&theme=vision-friendly-dark"/>
 </div>
 
