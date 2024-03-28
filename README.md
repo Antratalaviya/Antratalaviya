@@ -2,14 +2,14 @@
 
 ### :woman_technologist: About Me :
 <br>
-<div>
-  Passionate with solid JavaScript skills, eager to specialize in Node.js backend development, proficient in Express.js and database integration
+<div align="center">
+  Passionate with solid JavaScript skills, eager to specialize in Node.js backend development, proficient in Express.js and database integration like MongoDB.
 </div>
   :mailbox:How to reach me:
   <a href="www.linkedin.com/in/antra-talaviya-7a3a16236">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<div id="badges" align="center">
+<div>
 <img src="https://komarev.com/ghpvc/?username=Antratalaviya&style=flat-square&color=blue" alt=""/>
 </div>
 
