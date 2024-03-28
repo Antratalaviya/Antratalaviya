@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Antra Talaviya
-<hr>
+
 ### :woman_technologist: About Me :
 <br>
 <div>
@@ -12,7 +12,7 @@
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=Antratalaviya&style=flat-square&color=blue" alt=""/>
 </div>
-<hr>
+
 ### :hammer_and_wrench: Languages and Tools :
 <br>
 <div>
@@ -29,14 +29,16 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="swagger" alt="swagger" width="40" height="40"/> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/> 
 </div>
-<hr>
+
 ### :fire: My Stats :
 <br>
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/antratalaviya"/>
   <br>
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antratalaviya&layout=compact&theme=vision-friendly-dark"/>
 <br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antratalaviya&layout=compact&theme=vision-friendly-dark"/>
 </div>
 
