@@ -36,7 +36,8 @@
 ### :fire: My Stats :
 <br>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/antratalaviya"/>
+  <img src='https://camo.githubusercontent.com/759e453fed607f197c2aa3997059061ff2acee3249df810f0aeb2323e99a1649/68747470733a2f2f6c656574636172642e6a61636f626c696e2e636f6f6c2f616e74726174616c6176697961'/>
+<!--   <img src="https://leetcard.jacoblin.cool/antratalaviya"/> -->
   <br>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antratalaviya&layout=compact&theme=vision-friendly-dark"/>
