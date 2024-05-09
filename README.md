@@ -16,6 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antratalaviya&show_icons=true&locale=en&layout=compact" alt="antratalaviya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antratalaviya&show_icons=true&locale=en" alt="antratalaviya" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antratalaviya&" alt="antratalaviya" /></p>
